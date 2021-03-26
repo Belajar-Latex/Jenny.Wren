@@ -1,5 +1,5 @@
 # (c) 2021-2021 Rahmat M. Samik-Ibrahim
-# REV00 Fri 26 Mar 2021 12:07:29 WIB
+# REV01 Fri 26 Mar 2021 14:00:27 WIB
 # START Fri 26 Mar 2021 12:07:29 WIB
 
 FILE1=JennyWren
@@ -11,6 +11,8 @@ DEPFILES= \
 
 
 $(FILE1).pdf: $(DEPFILES)
+	pdflatex $(FILE1)
+	pdflatex $(FILE1)
 	pdflatex $(FILE1)
 	pdflatex $(FILE1)
 
