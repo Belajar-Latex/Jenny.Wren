@@ -8,7 +8,9 @@ DEPFILES= \
     $(FILE1).tex         \
     01-01.tex            \
     01-02.tex            \
+    01-03.tex            \
     01-04.tex            \
+    01-06.tex            \
     mcdumbdumb.jpg       \
     Makefile             \
 
