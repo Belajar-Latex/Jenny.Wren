@@ -1,7 +1,19 @@
 ---
 layout: "layout"
-title: Jenny Wren
+title: Jenny Wren --- Our Mutual Friend
 ---
+Hello!
+
+I am {{ site.author }} from {{ site.address }}.
+This page is just humorous intention of fighting the 2020-2021 lockdown boredom.
+My apology to 
+Charles Dickens
+and
+Sir Paul McCartney.
+
+Covfefe-19!
+
+## Jenny Wren (Dickens McCartney)
 
 ```
 Like so many girls
@@ -35,9 +47,8 @@ All because of you
 Jenny Wren
 ```
 
-I am {{ site.author }} from {{ site.address }}.
-This page is just humorous intention of fighting the lockdown boredom with LaTeX.
-My apology to Sir Paul McCartney and Charles Dickens.
+<br>
+## [eBook: Our Mutual Friend]({{ site.baseurl }}/LaTeX/JennyWren.pdf)
+<br>
 
-Covfefe-19!
 
