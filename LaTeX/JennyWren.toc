@@ -1,7 +1,0 @@
-\contentsline {chapter}{Jenny Wren}{iii}%
-\contentsline {part}{I\hspace {1em}Book the First:\\THE CUP AND THE LIP}{1}%
-\contentsline {chapter}{\numberline {1}ON THE LOOK OUT}{3}%
-\contentsline {chapter}{\numberline {2}THE MAN FROM SOMEWHERE}{7}%
-\contentsline {chapter}{\numberline {3}ANOTHER MAN}{15}%
-\contentsline {chapter}{\numberline {4}XXX}{25}%
-\contentsline {chapter}{\numberline {5}XXX}{27}%

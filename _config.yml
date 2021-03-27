@@ -1,0 +1,21 @@
+title:       "The Page of Jenny Wren"
+version:     "002---27-Mar-2021"
+copyright:   "2021-2021"
+description: >- 
+  This is Dummy McDumbDumb!
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+google_analytics: "UA-89852122-6"
+author:           "Dickens McCartney"
+address:          "Mar-a-Lago, Fl"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://jennywren.vlsm.org/"
+urlcontact:       "TBS"
+urlgithub:        "https://github.com/Belajar-Latex/Jenny.Wren/"
+urlghpage:        "https://jennywren.vlsm.org/"
+keywords:         "Jenny Wren"
+github:           [metadata]
+
