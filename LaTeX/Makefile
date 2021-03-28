@@ -1,5 +1,5 @@
 # (c) 2021-2021 Rahmat M. Samik-Ibrahim
-# REV01 Fri 26 Mar 2021 14:00:27 WIB
+# REV02 Sun 28 Mar 2021 11:05:11 WIB
 # START Fri 26 Mar 2021 12:07:29 WIB
 
 FILE1=JennyWren
@@ -10,7 +10,9 @@ DEPFILES= \
     01-02.tex            \
     01-03.tex            \
     01-04.tex            \
+    01-05.tex            \
     01-06.tex            \
+    03-05.tex            \
     mcdumbdumb.jpg       \
     Makefile             \
 
