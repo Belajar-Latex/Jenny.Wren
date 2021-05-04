@@ -16,6 +16,10 @@ DEPFILES= \
     01-07.tex            \
     01-08.tex            \
     01-09.tex            \
+    01-10.tex            \
+    01-11.tex            \
+    01-12.tex            \
+    01-13.tex            \
     03-05.tex            \
     mcdumbdumb.jpg       \
     Makefile             \
