@@ -5,6 +5,8 @@ title: Jenny Wren --- Our Mutual Friend
 
 <br>
 ## [eBook: Our Mutual Friend (WIP)]({{ site.baseurl }}/LaTeX/JennyWren.pdf)
+
+### [Audio Book Playlist](https://www.youtube.com/playlist?list=PLOOwSORhCX7Z239bGGaOUWde4iQ3TtCUf) (ca. 36 hours)
 <br>
 
 ## Jenny Wren (Dickens McCartney)
