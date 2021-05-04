@@ -1,4 +1,5 @@
 # (c) 2021-2021 Rahmat M. Samik-Ibrahim
+# REV03 Tue 04 May 2021 13:29:34 WIB
 # REV02 Sun 28 Mar 2021 11:05:11 WIB
 # START Fri 26 Mar 2021 12:07:29 WIB
 
@@ -12,6 +13,9 @@ DEPFILES= \
     01-04.tex            \
     01-05.tex            \
     01-06.tex            \
+    01-07.tex            \
+    01-08.tex            \
+    01-09.tex            \
     03-05.tex            \
     mcdumbdumb.jpg       \
     Makefile             \
