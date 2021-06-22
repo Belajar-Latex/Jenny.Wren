@@ -27,6 +27,12 @@ DEPFILES= \
     01-17.tex            \
     02-01.tex            \
     02-02.tex            \
+    02-03.tex            \
+    02-04.tex            \
+    02-05.tex            \
+    02-06.tex            \
+    02-07.tex            \
+    02-08.tex            \
     03-01.tex            \
     03-02.tex            \
     03-05.tex            \
@@ -50,4 +56,3 @@ clean:
 xfer:
 	chmod 644 $(FILE1).pdf
 	cp $(FILE1).pdf ~/tmp/
-
