@@ -25,9 +25,11 @@
 \contentsline {chapter}{\numberline {5}MERCURY PROMPTING}{185}{chapter.2.5}%
 \contentsline {chapter}{\numberline {6}A RIDDLE WITHOUT AN ANSWER}{195}{chapter.2.6}%
 \contentsline {chapter}{\numberline {7}IN WHICH A FRIENDLY MOVE IS ORIGINATED}{205}{chapter.2.7}%
-\contentsline {chapter}{\numberline {8}XXX}{213}{chapter.2.8}%
-\contentsline {chapter}{\numberline {9}XXX}{279}{chapter.2.9}%
-\contentsline {part}{III\hspace {1em}Book The Third:\\A LONG LANE}{345}{part.3}%
-\contentsline {chapter}{\numberline {1}LODGERS IN QUEER STREET}{347}{chapter.3.1}%
-\contentsline {chapter}{\numberline {2}XXX}{355}{chapter.3.2}%
-\contentsline {chapter}{\numberline {3}XXX}{577}{chapter.3.3}%
+\contentsline {chapter}{\numberline {8}IN WHICH AN INNOCENT ELOPEMENT OCCURS}{213}{chapter.2.8}%
+\contentsline {chapter}{\numberline {9}IN WHICH THE ORPHAN MAKES HIS WILL}{223}{chapter.2.9}%
+\contentsline {chapter}{\numberline {10}A SUCCESSOR}{229}{chapter.2.10}%
+\contentsline {chapter}{\numberline {11}XXX}{233}{chapter.2.11}%
+\contentsline {part}{III\hspace {1em}Book The Third:\\A LONG LANE}{281}{part.3}%
+\contentsline {chapter}{\numberline {1}LODGERS IN QUEER STREET}{283}{chapter.3.1}%
+\contentsline {chapter}{\numberline {2}XXX}{291}{chapter.3.2}%
+\contentsline {chapter}{\numberline {3}XXX}{513}{chapter.3.3}%
