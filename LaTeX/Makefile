@@ -77,6 +77,7 @@ DEPFILES= \
     04-15.tex            \
     04-16.tex            \
     04-17.tex            \
+    Full-License.tex     \
     mcdumbdumb.jpg       \
     Makefile             \
 
