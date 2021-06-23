@@ -43,7 +43,6 @@ DEPFILES= \
     02-14.tex            \
     02-15.tex            \
     02-16.tex            \
-    02-17.tex            \
     03-01.tex            \
     03-02.tex            \
     03-03.tex            \
