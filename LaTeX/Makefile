@@ -1,9 +1,9 @@
 # (c) 2021-2021 Rahmat M. Samik-Ibrahim
+# REV07 Sun 27 Jun 2021 12:11:38 WIB
 # REV06 Thu 24 Jun 2021 05:27:07 WIB
 # REV05 Wed 23 Jun 2021 06:05:30 WIB
 # REV04 Tue 22 Jun 2021 10:52:07 WIB
 # REV03 Tue 04 May 2021 13:29:34 WIB
-# REV02 Sun 28 Mar 2021 11:05:11 WIB
 # START Fri 26 Mar 2021 12:07:29 WIB
 
 FILE1=JennyWren
@@ -87,6 +87,7 @@ $(FILE1).pdf: $(DEPFILES)
 	pdflatex $(FILE1)
 	pdflatex $(FILE1)
 	pdflatex $(FILE1)
+	cp $(FILE1).pdf /tmp/231.pdf
 
 
 cleanpdf: clean
